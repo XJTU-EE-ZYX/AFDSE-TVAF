@@ -1,6 +1,3 @@
-[Uploading README.md…]()
-# AFDSE-TVAF Evaluation Packages
-
 This material supports the paper "An Adaptive Frequency-Down-Shifting Method for
 Synchrophasor Measurement in P-Class PMUs Based on the Time-Varying
 Amplitude-Frequency Model".
